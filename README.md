@@ -56,7 +56,8 @@ Technologies used in the project :
 
 ## Screenshots
 
-![Example screenshot](./img/screenshot-desktop.png)
+![screenshot-desktop](https://user-images.githubusercontent.com/64114079/114261497-4886ff80-99b1-11eb-8422-d3e09af2e478.png)
+
 
 ## Live-Demo
 
