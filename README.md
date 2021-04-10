@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# Simple React Slider
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of contents
 
-## Available Scripts
+-  [Available Scripts](#Available-Scripts)
+-  [Technologies](#Technologies)
+-  [Screenshots](#screenshots)
+-  [Live Demo](#Live-Demo)
 
-In the project directory, you can run:
+## Available-Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). In the project directory, you can run the following commands:
 
 ### `npm start`
 
@@ -39,32 +44,20 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Technologies
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Technologies used in the project :
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+-  React
+-  Create React App
+-  Styled Components
+-  Framer Motion
+-  React Intersection Observer
 
-### Code Splitting
+## Screenshots
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Example screenshot](./img/screenshot-desktop.png)
 
-### Analyzing the Bundle Size
+## Live-Demo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+https://simple-react-slider.netlify.app/
